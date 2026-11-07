@@ -51,10 +51,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aduoer-Music/aduoer-wow-sdk.git"
+    "url": "git+https://github.com/YangZxi/aduoer-wow-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/Aduoer-Music/aduoer-wow-sdk/issues"
+    "url": "https://github.com/YangZxi/aduoer-wow-sdk/issues"
   },
   "homepage": "https://aduoer-music.github.io/docs/"
 }
